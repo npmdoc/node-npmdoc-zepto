@@ -1,6 +1,6 @@
 # npmdoc-zepto
 
-#### api documentation for  [zepto (v1.2.0)](http://zeptojs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-zepto.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-zepto) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-zepto.svg)](https://travis-ci.org/npmdoc/node-npmdoc-zepto)
+#### basic api documentation for  [zepto (v1.2.0)](http://zeptojs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-zepto.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-zepto) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-zepto.svg)](https://travis-ci.org/npmdoc/node-npmdoc-zepto)
 
 #### Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. If you use jQuery, you already know how to use Zepto.
 
@@ -60,7 +60,8 @@
         "start": "coffee test/server.coffee",
         "test": "coffee make test"
     },
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
